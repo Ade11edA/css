@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color:rgb(178, 51, 32);
+}
+.purple{
+    color: purple;
+}
+.underline{
+    text-decoration: underline;
+}
